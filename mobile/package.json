@@ -1,0 +1,28 @@
+{
+    "name": "login-google-mobile",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+      "start": "react-native start",
+      "android": "react-native run-android",
+      "ios": "react-native run-ios"
+    },
+    "dependencies": {
+      "react": "18.2.0",
+      "react-native": "0.74.0",
+      "@react-native-google-signin/google-signin": "^10.0.0"
+    },
+    "devDependencies": {
+      "@babel/core":"^7.29.0",
+      "@babel/runtime":"^7.29.2",
+      "typescript": "^5.0.0",
+      "@react-native/babel-preset": "^0.74.0",
+      "@babel/plugin-transform-class-properties": "^7.28.6",
+      "@babel/plugin-transform-optional-chaining": "^7.28.6",
+      "@babel/plugin-transform-nullish-coalescing-operator": "^7.28.6",
+      "@babel/plugin-transform-object-rest-spread": "^7.28.6",
+      "@babel/plugin-transform-numeric-separator": "^7.28.6",
+      "rimraf": "^5.0.0",
+      "uglify-js": "^3.17.4"
+    }
+  }

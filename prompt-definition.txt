@@ -1,0 +1,17 @@
+Generar aplicación:
+1. Pantalla inicio: nombre empresa, logo, login Google.
+2. Tras login: mostrar resultado o error.
+
+Requisitos técnicos:
+- App móvil Android/iOS en React Native.
+- Web responsive en React + Vite + TypeScript.
+- Incluir APK en carpeta "login-google".
+
+Requisitos diseño:
+- Fondo negro.
+- Texto blanco, fuente Helvetica.
+
+Generar un comprimido con el proyecto listo para abrir en visual studio code
+
+
+
