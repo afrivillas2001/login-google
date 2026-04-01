@@ -12,6 +12,16 @@ Requisitos diseño:
 - Texto blanco, fuente Helvetica.
 
 Generar un comprimido con el proyecto listo para abrir en visual studio code
+_____________________________________________________________________________________
+ Generar una pagina de inicio que debe tener:
+ - logo de la empesa, nombre de la empresa y login con Google
+ Requisitos tecnicos:
+ - Web responsive en react + vite + TypeScript
+ - Ya tengo la carpeta de mi proyecto web, se llama web, ya hice el npm install y el npm run dev
+ Requisitos de diseños:
+ -Texto blanco, fondo negro, letra Helvetica.
+_____________________________________________________________________________________
 
-
-
+Corrige login-google/web/src:
+- No aparece botón de login Google.
+- Solo se muestra pantalla negra.
