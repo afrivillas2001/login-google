@@ -1,3 +1,4 @@
+
 Generar aplicación:
 1. Pantalla inicio: nombre empresa, logo, login Google.
 2. Tras login: mostrar resultado o error.
@@ -25,3 +26,16 @@ ________________________________________________________________________________
 Corrige login-google/web/src:
 - No aparece botón de login Google.
 - Solo se muestra pantalla negra.
+_____________________________________________________________________________________
+
+Generar app móvil con React Native + Vite + TypeScript.
+Proyecto ya creado en carpeta "mobile" con npm install listo.
+
+Requisitos funcionales:
+- Página de inicio con logo, nombre de empresa y login con Google.
+- Generar APK segura para instalar en Android.
+
+Requisitos de diseño:
+- Fondo negro, texto blanco, tipografía Helvetica.
+- Diseño responsive.
+_____________________________________________________________________________________
